@@ -1,1 +1,1 @@
-# LeetCodeLink
+https://leetcode.com/OhDNyZUYEE/
